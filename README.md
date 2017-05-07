@@ -4,7 +4,13 @@ Baraza is a social justice innovation that aims to facilitate conflict resolutio
 
 
 ## How it works
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+Traditionally, dispute resolution has worked in the following ways:
+1. Aggreived party approaches relevant (local) authority figure, reports dispute.
+2. Authority figure either summons both the aggreived party and the aggrevator, sits both down to a face-to-face meeting.
+3. In face-to-face meeting, a resolution is passed by the authority figure.
+
+The Baraza mobile application will digitize this process. The application allows a user to report a dispute arising, allows the local authority figure(chief) to see reported disputes relevant to their areas, and allows the chief to perform some action as per the dipute either pass a resolution from within the application or summon the parties. The passed resolution, either in person or throught the application is recorded by the dispute and records kept.
+
 
 ## Getting Started
 
