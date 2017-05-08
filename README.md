@@ -14,10 +14,15 @@ The Baraza mobile application will digitize this process. The application allows
 
 ## Getting Started
 
+## Current Status
+The concept of Baraza is still very much in its infancy stage. 
+Redefine concept
+Redefine Mock-ups
+Build prototype
 
 ## Contributing
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to Baraza! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines
 
