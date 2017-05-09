@@ -8,6 +8,7 @@ This documents is a set of guidelines for contributing to [Project] on GitHub. T
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
+* [How you can get involved](#how-you-can-get-involved)
 * [How to submit changes](#how-to-submit-changes)
 * [How to report bugs](#how-to-report-bugs)
 * [Communication channels](#communication-channels)
@@ -20,6 +21,13 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
 
+## How you can get invovled
+
+We are currently looking for contributions in the following areas:
+1. Product Refinement - We are looking to clearly refine and define the flow of the baraza android application.
+2. Application Designer - We are looking for a graphic designer to join us and help come up with practical wireframes from the product requirements. 
+3. Application Developer - We hope we can get to have a working prototype at the end of the sprint. We would love to have three, maybe four android developers come in and transform the wireframes into a working prototype. The application will be a native android application built with java using android studio.
+4. Documentation - Right now, what is seen here is all the documentation available for this application. It would be helpful if we could have this organized into an easier to navigate through documentation.
 
 ## How to submit changes
 
