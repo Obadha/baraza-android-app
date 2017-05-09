@@ -21,7 +21,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
 
-## How you can get invovled
+## How you can get involved
 
 We are currently looking for contributions in the following areas:
 1. Product Refinement - We are looking to clearly refine and define the flow of the baraza android application.
