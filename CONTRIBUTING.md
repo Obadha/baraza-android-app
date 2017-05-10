@@ -31,9 +31,7 @@ We are currently looking for contributions in the following areas:
 
 ## How to submit changes
 
-Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
-
-> Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
+Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
  
 > 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
 > 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
