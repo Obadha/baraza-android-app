@@ -13,12 +13,9 @@ The Baraza mobile application will digitize this process. The application allows
 
 
 ## Getting Started
-
-## Current Status
-The concept of Baraza is still very much in its infancy stage. 
-Redefine concept
-Redefine Mock-ups
-Build prototype
+The baraza application is organized in the following ways:
+1. develop branch - this holds the code for the baraza application.
+2. docs branch - this holds the documentation. Dexcription for how the application works will be found here 
 
 ## Contributing
 
