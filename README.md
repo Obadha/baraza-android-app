@@ -23,7 +23,7 @@ Thanks for your interest in contributing to Baraza! There are many ways to contr
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to wobadha@gmail.com .
+This project adheres to a [code of conduct](https://www.mozilla.org/en-US/about/governance/policies/participation/). By participating, you are expected to uphold this code. Please report unacceptable behavior to wobadha@gmail.com .
 
 ## MozSprint
 
