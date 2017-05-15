@@ -15,11 +15,11 @@ This documents is a set of guidelines for contributing to [Project] on GitHub. T
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to wobadha@gmail.com .
 
 ## What we're working on
 
-Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
+Take a look at the issues in our [issues list](https://github.com/Obadha/baraza/issues) to get started!
 
 ## How you can get involved
 
