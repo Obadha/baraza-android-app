@@ -31,6 +31,13 @@ We are currently looking for contributions in the following areas:
 
 ## How to submit changes
 
+The issues are labeled differently(according to the related branches in the repo) so filter them according to preference and select the most appropriate. The issues are labeled :
+
+**developer** - this contains the code for the baraza android application. If you want to contribute by helping build the application by writing android code, this is where you should be.
+
+**documentation** - this contains documentation for the baraza application, describing the application flow and how the application works. Take a look and see if anything is missing, or if something should be done differently.
+
+**design** - this is where you will find the design of the application, including screen designs . Let us know if you think we should design the application differently, or if you want to help design the icons, help decide the colors, we'll be glad to hear it.
 Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
  
 > 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
