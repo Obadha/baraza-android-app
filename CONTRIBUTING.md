@@ -56,4 +56,5 @@ Most projects invite all contributors to report bugs, so "debugging" or fixing p
 
 ## Communication channels
 
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+Feel free to reach out to me if you have any questions or need any clarifications through the email wobadha@gmail.com
+For prompt responses, join this [whatsapp group](https://chat.whatsapp.com/HQpFek8XYhd1Pcf0qM6uAP) set up specifically for this project.
