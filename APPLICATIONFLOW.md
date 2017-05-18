@@ -50,5 +50,4 @@ Users involved are:
 
   	5. CONFLICTS/DISPUTES Screen - After users have reported disputes, chief sees them from this screen. He can select one,
     from which he can perform the following actions: Summon the parties, Pass decision.
-    
-    6.SUMMON Screen - Chief sees this when he clicks summon. Here he sees two fields, date selector, location as a textfield, and whether to summon both parties, or either one of them. Once he hits summon, selected users receive notification (maybe sms) with relevant details of summoning.
+    	6. SUMMON Screen - Chief sees this when he clicks summon. Here he sees two fields, date selector, location as a textfield, and whether to summon both partied, or either one of them. Once hits summon, selected users receive notification (maybe sms) with relevant details of summoning.
