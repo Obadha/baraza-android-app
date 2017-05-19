@@ -48,9 +48,5 @@ Users involved are:
   	4. ANNOUNCEMENTS Screen - Chief is presented fields as follows: Title, Details. (Ideally he should be able to 
     update/delete these)
 
-  	5. CONFLICTS/DISPUTES Screen - After users have reported disputes, chief sees them from this screen. He can select one,
-    from which he can perform the following actions: Summon the parties, Pass decision.
-
-  	6.SUMMON Screen - Chief sees this when he clicks summon. Here he sees two fields, date selector, location as a text 
-    field, and whether to summon both parties, or either one of them. Once he hits summon, selected users receive notification
-    (maybe sms) with relevant details of summoning.
+  	5. CONFLICTS/DISPUTES Screen - After users have reported disputes, chief sees them from this screen. He can select one, from which he can perform the following actions: Summon the parties, Pass decision.
+	6. SUMMON Screen - Chief sees this when he clicks summon. Here he sees two fields, date selector, location as a textfield, and whether to summon both partied, or either one of them. Once hits summon, selected users receive notification (maybe sms) with relevant details of summoning.
