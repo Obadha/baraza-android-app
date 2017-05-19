@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Baraza</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="textview">What\'s your name?</string>
+    <string name="name_hint">Using your real name makes it easier for the chief to recognize you.</string>
+    <string name="next">Next</string>
+    <string name="baraza">baraza</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enterMobileNumber">Enter your mobile number</string>
+    <string name="mobileNumberHint">You\'ll use this number when you log in and if you ever need to reset your password</string>
+    <string name="choose_your_password">Choose your password</string>
+    <string name="password_hint">Remeber this password. A password helps prevent strangers from using your account.</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
 </resources>
