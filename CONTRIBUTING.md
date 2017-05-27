@@ -17,11 +17,9 @@ This documents is a set of guidelines for contributing to [Project] on GitHub. T
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to wobadha@gmail.com .
 
-## What we're working on
+## How you can get involved
 
 Take a look at the issues in our [issues list](https://github.com/Obadha/baraza/issues) to get started!
-
-## How you can get involved
 
 We are currently looking for contributions in the following areas:
 1. Product Refinement - We are looking to clearly refine and define the flow of the baraza android application.
