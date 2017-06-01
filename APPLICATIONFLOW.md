@@ -54,3 +54,45 @@ Users involved are:
   	6.SUMMON Screen - Chief sees this when he clicks summon. Here he sees two fields, date selector, location as a text 
     field, and whether to summon both parties, or either one of them. Once he hits summon, selected users receive notification
     (maybe sms) with relevant details of summoning.
+    
+   ## Application Databases
+    The database for baraza contains tables and columns as follows:
+
+(t1)users - stores information on registered users
+A date registered
+RU first name
+RU last name
+RU phone # (primary key)
+
+(t2)chiefs - stores information on registered chiefs
+A date registered
+AD first Name
+AD last Name
+AD chief # (primary key)
+AD phone #
+
+(t3)conflicts - stores information on reported conflicts
+A conflict # (primary key)
+RU nature of Conflict
+RU details
+RU name of victim/reporter
+RU name of accused
+RU number of accused
+C resolution passed
+C resolution passed
+
+(t4) events/announcement - stores events and announcements posted by chief
+C name of event/anouncement
+C details
+A date made
+C event date
+A event #
+
+The letters to the left indicate who populates what field.
+C for chief, RU for registered user, A for auto-filled, AD for administrator.
+
+User registers from phone application. Info is saved in t1. On logging in, they see an option of reporting an issue. When they report an issue, this info is saved in t3. The other option is seeing a feed that is populated from t4.
+
+Chiefs are registered from the server into t3 not from the application this is for au.
+
+When chief signs in, they see conflicts and option for events and announcements. Conflicts are populated from t3. They are responsible for editing some columns. They populate events t4.
