@@ -23,7 +23,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="86dp"
         android:text="@string/login"
-        android:onClick="registerActivityName"/>
+        android:onClick="loginActivity"/>
 
     <Button
         android:id="@+id/btn_register"
